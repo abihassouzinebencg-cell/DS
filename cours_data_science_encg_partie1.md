@@ -1,6 +1,7 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
-
+## Abihassou Zineb CAC 1
+< img src= "encg.jpng" style="height:1000px;margin-right:1000px"/>
 ---
 
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
