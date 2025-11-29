@@ -1,13 +1,14 @@
-# Analyse des données NBA 2012–2024
+# Rapport d'analyze: NBA 2012–2024
 
 Ce projet propose une analyse des données de la NBA entre les saisons 2012 et 2024, ainsi que deux modèles de machine learning : une régression linéaire pour prédire le nombre de points marqués et une régression logistique pour prédire l’issue d’un match (victoire/défaite).
 
-## Résumé
+## Sommaire
 
-- Exploration des statistiques de matchs NBA (2012–2024) au niveau des équipes.  
-- Construction d’un modèle de régression linéaire pour prédire le nombre de points d’une équipe.  
-- Construction d’un modèle de régression logistique pour estimer la probabilité de victoire.  
-- Visualisation des performances des modèles à l’aide d’un graphique “réel vs prédit” et d’une courbe précision–rappel.
+- Description du jeu de données  
+- Méthodologie générale  
+- Régression linéaire  
+- Régression logistique  
+- Principaux enseignements 
 
 ## Introduction
 
